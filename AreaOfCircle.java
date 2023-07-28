@@ -16,6 +16,15 @@ public class AreaOfCircle {
       System.out.println("Area of the circle is ::"+area);
       System.out.println("Area of the circle is ::"+area);
       System.out.println("Area of the circle is ::"+area);
-      
+
+      //This is fun 
+
+      System.out.println("Area of the circle is ::"+area);
+      System.out.println("Area of the circle is ::"+area);
+      System.out.println("Area of the circle is ::"+area);
+      System.out.println("Area of the circle is ::"+area);
+      System.out.println("Area of the circle is ::"+area);
+      System.out.println("Area of the circle is ::"+area);
+      System.out.println("Area of the circle is ::"+area);
    }
 }
